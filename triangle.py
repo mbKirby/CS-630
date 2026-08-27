@@ -8,7 +8,7 @@
 # And test under continuous integration
 #
 #----------------------------------------------------------#
-#Testing if build works after commit
+#Testing if build works after commit test2
 
 def classify_triangle(a: float, b: float, c: float) -> str:
     """
